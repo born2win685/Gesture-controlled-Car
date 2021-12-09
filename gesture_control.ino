@@ -1,3 +1,6 @@
+//by B Sathiya Naraayanan
+//demo video:https://youtu.be/NMyYmx-K_cc
+
 const int trigPin = 9;
 const int echoPin = 10;
 const int trigright= 7;
